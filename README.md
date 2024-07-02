@@ -1,1 +1,1 @@
-Ensure that 'nhgh.tsv' is in same folder as 'SGH_Mark Yong Wei Jie.ipynb' before running
+Model Training for Take Home Assignment (Data Analyst)
